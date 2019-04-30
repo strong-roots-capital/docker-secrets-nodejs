@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/strong-roots-capital/docker-secrets-nodejs.svg?branch=master)](https://travis-ci.org/strong-roots-capital/docker-secrets-nodejs)
-[![npm version](https://badge.fury.io/js/@strong-roots-capital/docker-secrets-nodejs.svg)](https://badge.fury.io/js/@strong-roots-capital/docker-secrets-nodejs)
+[![npm version](https://img.shields.io/npm/v/@strong-roots-capital/docker-secrets-nodejs.svg)](https://npmjs.org/package/@strong-roots-capital/docker-secrets-nodejs)
 
 ## Install
 
